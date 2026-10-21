@@ -1,0 +1,3 @@
+# Optional real-WeChat adapter. The console and model backends use Python stdlib.
+# Documented client compatibility ends at WeChat 4.1.8.107; newer clients unverified.
+wxauto4==41.1.7

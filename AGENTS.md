@@ -1,0 +1,3 @@
+# Mydex working rules
+
+Read README.md and docs/SETUP.md before runtime changes. Keep source separate from private runtime state. Never commit API credentials, login state, chat histories, account IDs, session proofs or database keys. Preserve client hash checks and fail-closed session binding. Do not run enrollment, injection or real-message sending as a test without explicit authorization for that action and recipient. Unit tests must use synthetic records. Periodic summaries are planned, not delivered, until a scheduler is implemented and verified. This source export does not authorize changes to the original mini-PC service.

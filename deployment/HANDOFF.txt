@@ -1,0 +1,9 @@
+Mydex source handoff v0.1.0 — 2026-10-21
+
+This is the sanitized source/methodology export. Read ../docs/SETUP.md.
+The original mini-PC runtime remains separate and was not restarted.
+No login state, credentials, chat histories, live recipient identifiers or
+native binary packages are included. Enrollment and real sends are not tests.
+Current supported client build/hash checks remain in source.
+Periodic summary scheduling is a design extension, not a shipped scheduler.
+Historical one-off messaging scripts and operational narratives were omitted.
