@@ -1,6 +1,6 @@
 {
-  "version": "0.1.1",
-  "date": "2026-10-21",
+  "version": "0.1.2",
+  "date": "2026-10-22",
   "scope": "Portable sanitized source release; LF line endings",
   "files": {
     ".gitattributes": "d60f352d0db1404c70afb4bb8b2ca3fd1c610572aa40720e8a0b7baa7885418c",
@@ -123,6 +123,7 @@
     "app/test_supervisor_safety.py": "d991d14b57ffabf2c592c86815d58db7c2918db8beb448b7ff6fdd43cdfb9ce3",
     "app/trace_native.py": "9ceb4c7824fcdf52a5fe7d451f4776f7d25bde8e37f30ca816e8b75e55b537c1",
     "app/wechat_bridge.py": "0deb94f10d6c07213230d465c3eb14891858794878b37098069d04d2d8d06f92",
+    "COMMERCIAL.md": "2d54a0870e29622ad5dd8a5f796b69e79ed4259cea6d62d8b8373888bc684b0f",
     "deployment/build_key_observer.py": "bedd065f74001090eea03a7b6ae497e123dce04415f1abf8b89469b7598c41e1",
     "deployment/configure_api.py": "3be7908915a376f804a457e28c1db7235b5d940131aafcf4dbf1f28a5d781093",
     "deployment/configure_desktop_bridge.py": "84249af7c9e95280dcd56869b02647b5632c2da1f627e554e893b7696a49f243",
@@ -146,7 +147,10 @@
     "docs/PRODUCT.md": "48e91e1ca5df2491dc488c057d8f0ecf9b0d96be340eb732c1e654f2ca7a5d75",
     "docs/SETUP.md": "b6c7f978bde8ecd05e061b520c862b480b49a01c1bc7d4d33d4b56e1be983b7d",
     "docs/VALIDATION.md": "851ad3efc65c204b51c6825aaf8c0ab776465b0c5bf062ef9728d19a71268527",
-    "README.md": "7e2120d4d3bcbe61fb7b895fe3a88af134668484bb2ecaa89a9b4d337e626bc2",
+    "LEGAL.md": "8009f8bcb13b0990f620f6629832d03b103442e6a3e695538dace841800b09f2",
+    "LICENSE.md": "c0ea4a896d2c8c394b29f9427589996db826cd501c512279ff0ed3ef48fabbe5",
+    "NOTICE": "ba58462a1d852d5511c60b2ec748b8a62da118074f80eeee1b733d0419a491df",
+    "README.md": "0aa05bddfac6b510046e787374391598466a082582b8fc43547cea096ce28acc",
     "tools/audit_release.py": "df03b035d8b8ce144c51f4f4290368dc1a9ee8e07bff099382877316e58b12fc",
     "vendor/minhook/AUTHORS.txt": "073b4e8b0a5a0cd9f4dfa838369f4fc7a4f47151d930b4e1fd891644060a897f",
     "vendor/minhook/include/MinHook.h": "62dff05e63155c6bf8135c36a0d79dedbdcaaede9da26fe38daf0bea34323e38",
